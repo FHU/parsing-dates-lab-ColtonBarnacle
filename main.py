@@ -14,6 +14,7 @@ def parse_date(full_date):
     return f"{month}/{day}/{year}"
 
 if __name__ == '__main__':
+    #run tests LR
     while True:
         full_date = input("Enter a date: ")
         
